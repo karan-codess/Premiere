@@ -108,7 +108,7 @@ gsap.from("#second p", {
   scrollTrigger: {
     trigger: "#second p",
     scroller: "body",
-    start: "top 50%",
+    start: "top 70%",
     end: "top 90%",
   },
 });
@@ -120,7 +120,7 @@ gsap.from("#third p", {
   scrollTrigger: {
     trigger: "#third p",
     scroller: "body",
-    start: "top 50%",
+    start: "top 70%",
     end: "top 90%",
   },
 });
